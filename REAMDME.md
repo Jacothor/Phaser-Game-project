@@ -28,7 +28,7 @@ The project is built around a system-based architecture:
 - Most gameplay is data-driven (items, enemies, recipes, map)  
 
 Flow example:
-UI → System → Event → UI Sync → UI
+UI → translation → system → UI sync → UI
 
 ---
 
